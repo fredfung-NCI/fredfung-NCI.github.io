@@ -1,7 +1,7 @@
 ---
-layout: tutorial_homepage
-title: "OpenMP"
-tutorial: "OpenMP"
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
 ---
 
 ### Table of Contents
