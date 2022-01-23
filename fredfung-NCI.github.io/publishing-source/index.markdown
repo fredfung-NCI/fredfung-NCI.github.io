@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+### Table of Contents
+
+1. [OpenMP](openmp)
