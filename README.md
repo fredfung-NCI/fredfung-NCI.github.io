@@ -1,5 +1,4 @@
-# fredfung-NCI.github.io
-NCI Training Materials
+# NCI Training Resources
 
 
 
