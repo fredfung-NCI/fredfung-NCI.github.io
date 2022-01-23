@@ -9,4 +9,4 @@ permalink: /openmp/
 
 ### Table of Contents
 
-1. [Abstract](abstract)
+1. [OpenMP](openmp)
